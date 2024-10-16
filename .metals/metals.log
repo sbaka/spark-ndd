@@ -1,0 +1,575 @@
+2024.10.14 15:44:51 INFO  Started: Metals version 1.3.5 in folders '/home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject' for client Visual Studio Code 1.94.2.[0m
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2264b641]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1f4f895d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2264b641]
+2024.10.14 15:44:51 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+Oct 14, 2024 3:44:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Oct 14, 2024 3:44:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Oct 14, 2024 3:44:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Oct 14, 2024 3:44:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+2024.10.14 15:45:01 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Oct 14, 2024 3:45:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 25
+2024.10.14 15:45:08 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:08 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 15:45:10 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:16 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:18 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:24 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:53 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:53 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:45:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:46:03 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:48:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:48:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:48:57 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:48:57 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 15:48:57 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:23 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:26 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:26 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 15:53:40 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:47 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:47 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 15:53:47 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 15:53:48 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 15:53:51 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:52 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:53 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:05:55 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala[0m
+2024.10.14 16:06:01 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:10 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:10 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:10 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:11 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:18 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:19 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 16:06:19 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:33 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:06:33 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 16:06:33 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:06 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:14 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:14 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:14 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:16 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:18 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 WARN  Using indexes to guess the definition of sparkCore[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Oct 14, 2024 4:08:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 256
+2024.10.14 16:08:34 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:36 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:36 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:36 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:36 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:36 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:37 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Oct 14, 2024 4:08:38 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278
+2024.10.14 16:08:37 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:38 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 16:08:38 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:43 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:45 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:50 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:51 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:51 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:51 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 16:08:51 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:08:56 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/Dependencies.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:22 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt[0m
+2024.10.14 16:10:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:54 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:10:55 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala[0m
+2024.10.14 16:10:55 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:02 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:08 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:08 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:08 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:09 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:09 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala[0m
+2024.10.14 16:11:09 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:11 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:11 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:11 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:13 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:14 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:16 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:18 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:24 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:24 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:26 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:35 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:35 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:37 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:37 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala[0m
+2024.10.14 16:11:37 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:38 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:40 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:41 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:41 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:42 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+2024.10.14 16:11:42 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala[0m
+2024.10.14 16:11:42 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3[0m
+Oct 14, 2024 4:11:59 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.14 16:12:44 INFO  running '/usr/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2024.10.14 16:12:46 INFO  [info] welcome to sbt 1.10.2 (Ubuntu Java 11.0.24)[0m
+2024.10.14 16:12:47 INFO  [info] loading settings for project mysparkproject-build-build from metals.sbt ...[0m
+2024.10.14 16:12:47 INFO  [info] loading project definition from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/project[0m
+2024.10.14 16:12:49 INFO  [info] loading settings for project mysparkproject-build from metals.sbt ...[0m
+2024.10.14 16:12:49 INFO  [info] loading project definition from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project[0m
+2024.10.14 16:12:52 INFO  [success] Generated .bloop/mysparkproject-build.json[0m
+2024.10.14 16:12:52 INFO  [success] Total time: 2 s, completed Oct 14, 2024, 4:12:52 PM[0m
+2024.10.14 16:12:53 INFO  [info] loading settings for project root from build.sbt ...[0m
+2024.10.14 16:12:53 INFO  [info] set current project to mySparkProject (in build file:/home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/)[0m
+2024.10.14 16:12:56 INFO  [success] Generated .bloop/root.json[0m
+2024.10.14 16:12:56 INFO  [success] Generated .bloop/root-test.json[0m
+2024.10.14 16:12:56 INFO  [success] Total time: 3 s, completed Oct 14, 2024, 4:12:56 PM[0m
+2024.10.14 16:12:57 INFO  time: ran 'sbt bloopInstall' in 12s[0m
+2024.10.14 16:12:57 INFO  Attempting to connect to the build server...[0m
+2024.10.14 16:12:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/.metals/bsp.trace.json or /run/user/17608/.cache/metals/bsp.trace.json[0m
+2024.10.14 16:12:57 INFO  Attempting to connect to the build server...[0m
+2024.10.14 16:12:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/.metals/bsp.trace.json or /run/user/17608/.cache/metals/bsp.trace.json[0m
+2024.10.14 16:12:57 INFO  time: Connected to build server in 0.88s[0m
+2024.10.14 16:12:57 INFO  Connected to Build server: Bloop v1.6.0[0m
+2024.10.14 16:12:58 INFO  running doctor check[0m
+2024.10.14 16:12:58 INFO  java targets: mysparkproject-build, root-test, root[0m
+2024.10.14 16:13:01 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.[0m
+2024.10.14 16:13:17 INFO  time: indexed workspace in 19s[0m
+2024.10.14 16:13:17 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:13:25 INFO  time: compiled root in 7.22s[0m
+2024.10.14 16:13:25 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:13:25 INFO  time: compiled root in 0.15s[0m
+Oct 14, 2024 4:13:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 569
+2024.10.14 16:14:00 ERROR scalafmt: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala:8: error: [dialect scala213] illegal start of simple expression
+      .set("spark.cassandra.auth.username", )
+                                            ^[0m
+2024.10.14 16:14:01 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:14:01 WARN  Using indexes to guess the definition of SparkSession[0m
+2024.10.14 16:14:01 INFO  time: compiled root in 0.27s[0m
+2024.10.14 16:18:22 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:18:22 INFO  time: compiled root in 0.18s[0m
+2024.10.14 16:18:33 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:18:34 INFO  time: compiled root in 1.05s[0m
+2024.10.14 16:25:20 INFO  compiling root-test (1 scala source)[0m
+2024.10.14 16:25:20 INFO  time: compiled root-test in 0.27s[0m
+Oct 14, 2024 4:25:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 685
+2024.10.14 16:25:22 WARN  Using indexes to guess the definition of String[0m
+Oct 14, 2024 4:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 688
+2024.10.14 16:25:22 ERROR scalafmt: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala:9: error: [dialect scala213] illegal start of simple expression
+      .set("spark.cassandra.auth.password", )
+                                            ^[0m
+Oct 14, 2024 4:25:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 691
+2024.10.14 16:25:22 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:25:22 INFO  time: compiled root in 0.14s[0m
+2024.10.14 16:34:41 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:34:41 INFO  time: compiled root in 0.17s[0m
+2024.10.14 16:34:44 WARN  Using indexes to guess the definition of SparkSession[0m
+2024.10.14 16:34:46 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:34:46 INFO  time: compiled root in 0.84s[0m
+2024.10.14 16:34:46 INFO  compiling root-test (1 scala source)[0m
+2024.10.14 16:34:46 INFO  time: compiled root-test in 0.11s[0m
+2024.10.14 16:37:05 INFO  compiling root (1 scala source)[0m
+2024.10.14 16:37:05 INFO  time: compiled root in 0.67s[0m
+2024.10.14 16:54:14 INFO  compiling root-test (1 scala source)[0m
+2024.10.14 16:54:14 INFO  time: compiled root-test in 0.18s[0m
+2024.10.14 16:54:14 INFO  compiling root-test (1 scala source)[0m
+2024.10.14 16:54:14 INFO  time: compiled root-test in 73ms[0m
+2024.10.14 16:54:23 INFO  compiling root-test (1 scala source)[0m
+2024.10.14 16:54:23 INFO  time: compiled root-test in 0.35s[0m
+2024.10.14 17:25:22 INFO  compiling root (1 scala source)[0m
+2024.10.14 17:25:22 INFO  time: compiled root in 0.15s[0m
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4e659b43[Shutting down, pool size = 3, active threads = 3, queued tasks = 0, completed tasks = 20280]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@4e659b43[Shutting down, pool size = 3, active threads = 3, queued tasks = 0, completed tasks = 20280]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:504)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2024.10.16 16:30:29 INFO  Started: Metals version 1.3.5 in folders '/home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject' for client Visual Studio Code 1.94.2.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2f4378a]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@753d1853]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2f4378a]
+2024.10.16 16:30:29 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.16 16:30:29 INFO  Attempting to connect to the build server...
+Oct 16, 2024 4:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Oct 16, 2024 4:30:29 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+2024.10.16 16:30:32 ERROR Starting the bsp launcher for bloop...
+2024.10.16 16:30:32 ERROR Opening a bsp server connection with 'bsp --protocol local --socket /tmp/bsp-launcher4812312215106041465/bsp.socket'...
+2024.10.16 16:30:32 ERROR Waiting for the bsp connection to come up...
+2024.10.16 16:30:32 ERROR Waiting for the bsp connection to come up...
+2024.10.16 16:30:32 ERROR Waiting for the bsp connection to come up...
+2024.10.16 16:30:32 ERROR error: The command bsp --protocol local --socket /tmp/bsp-launcher4812312215106041465/bsp.socket returned with an error
+2024.10.16 16:30:32 ERROR > No server running at 127.0.0.1:8212, let's fire one...
+2024.10.16 16:30:32 ERROR > Resolving ch.epfl.scala:bloop-frontend_2.12:1.6.0...
+2024.10.16 16:30:32 ERROR > Starting bloop server at 127.0.0.1:8212...
+2024.10.16 16:30:32 ERROR > Attempting a connection to the server...
+2024.10.16 16:30:32 ERROR > Attempting a connection to the server...
+2024.10.16 16:30:32 ERROR > Attempting a connection to the server...
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.17/scala-library-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.17/scala-library-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.17/scala-compiler-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.17/scala-compiler-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.17/scala-reflect-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.17/scala-reflect-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[31m[E][0m Failed to load project from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/.bloop/root.json
+2024.10.16 16:30:32 ERROR error: Trying a tcp-based connection to the server instead...
+2024.10.16 16:30:32 ERROR Opening a bsp server connection with 'bsp --protocol tcp --port 41654'...
+2024.10.16 16:30:32 ERROR Waiting for the bsp connection to come up...
+2024.10.16 16:30:32 ERROR error: The command bsp --protocol tcp --port 41654 returned with an error
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.17/scala-library-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.17/scala-compiler-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.17/scala-reflect-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.17/scala-library-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.12.17/scala-compiler-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.12.17/scala-reflect-2.12.17.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-xml_2.12/2.1.0/scala-xml_2.12-2.1.0.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[33m[W][0m Scala instance jar /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/jline/jline/2.14.6/jline-2.14.6.jar doesn't exist!
+2024.10.16 16:30:32 ERROR > [0m[31m[E][0m Failed to load project from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/.bloop/root.json
+2024.10.16 16:30:32 ERROR error: The launcher failed to establish a bsp connection, aborting...
+2024.10.16 16:30:32 ERROR Failed to connect with build server, no functionality will work.
+java.lang.RuntimeException: The server did not start, got FailedToOpenBspConnection
+	at bloop.launcher.LauncherMain.failPromise$1(Launcher.scala:92)
+	at bloop.launcher.LauncherMain.runLauncher(Launcher.scala:119)
+	at scala.meta.internal.metals.BloopServers$$anon$2.run(BloopServers.scala:385)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+2024.10.16 16:30:32 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:30:34 INFO  time: code lens generation in 1.54s
+2024.10.16 16:30:34 INFO  time: code lens generation in 1.22s
+2024.10.16 16:33:39 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:42 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:44 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:44 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:45 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:45 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:46 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:46 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:46 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:46 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:48 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:48 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:48 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:48 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:48 WARN  no build target for: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala
+Oct 16, 2024 4:33:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 35
+2024.10.16 16:33:48 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/Hello.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:33:55 INFO  running '/usr/bin/sbt -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.10.16 16:33:57 INFO  [info] welcome to sbt 1.10.2 (Ubuntu Java 11.0.24)
+2024.10.16 16:33:57 INFO  [info] loading settings for project mysparkproject-build-build from metals.sbt ...
+2024.10.16 16:33:58 INFO  [info] loading project definition from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/project
+2024.10.16 16:33:58 INFO  [warn] sbt-bloop-1.6.0.jar no longer exists at /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.6.0/sbt-bloop-1.6.0.jar
+2024.10.16 16:34:00 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:34:00 INFO  no build target found for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.10.16 16:34:01 INFO  [info] loading settings for project mysparkproject-build from metals.sbt ...
+2024.10.16 16:34:01 INFO  [info] loading project definition from /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project
+2024.10.16 16:34:01 INFO  [warn] sbt-bloop-1.6.0.jar no longer exists at /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.6.0/sbt-bloop-1.6.0.jar
+2024.10.16 16:34:02 INFO  [warn] sbt-bloop-1.6.0-sources.jar no longer exists at /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.6.0/sbt-bloop-1.6.0-sources.jar
+2024.10.16 16:34:02 INFO  [success] Generated .bloop/mysparkproject-build.json
+2024.10.16 16:34:02 INFO  [success] Total time: 2 s, completed Oct 16, 2024, 4:34:03 PM
+2024.10.16 16:34:04 INFO  [info] loading settings for project root from build.sbt ...
+2024.10.16 16:34:04 INFO  [info] set current project to mySparkProject (in build file:/home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/)
+2024.10.16 16:34:04 INFO  [warn] spark-core_2.12-3.2.2.jar no longer exists at /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.12/3.2.2/spark-core_2.12-3.2.2.jar
+2024.10.16 16:34:09 INFO  [warn] spark-core_2.12-3.2.2-sources.jar no longer exists at /run/user/17608/.cache/coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.12/3.2.2/spark-core_2.12-3.2.2-sources.jar
+2024.10.16 16:34:10 INFO  [success] Generated .bloop/root.json
+2024.10.16 16:34:10 INFO  [success] Generated .bloop/root-test.json
+2024.10.16 16:34:10 INFO  [success] Total time: 6 s, completed Oct 16, 2024, 4:34:10 PM
+2024.10.16 16:34:11 INFO  time: ran 'sbt bloopInstall' in 15s
+2024.10.16 16:34:11 INFO  Attempting to connect to the build server...
+2024.10.16 16:34:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/.metals/bsp.trace.json or /run/user/17608/.cache/metals/bsp.trace.json
+2024.10.16 16:34:12 INFO  Attempting to connect to the build server...
+2024.10.16 16:34:12 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/project/.metals/bsp.trace.json or /run/user/17608/.cache/metals/bsp.trace.json
+2024.10.16 16:34:12 INFO  time: Connected to build server in 1.36s
+2024.10.16 16:34:12 INFO  Connected to Build server: Bloop v1.6.0
+2024.10.16 16:34:12 INFO  time: Imported build in 0.11s
+2024.10.16 16:34:12 INFO  running doctor check
+2024.10.16 16:34:12 INFO  java targets: mysparkproject-build, root-test, root
+2024.10.16 16:34:15 WARN  Flyway upgrade recommended: H2 2.3.230 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.10.16 16:34:16 INFO  time: indexed workspace in 3.33s
+2024.10.16 16:35:33 INFO  compiling root (1 scala source)
+2024.10.16 16:35:40 INFO  time: compiled root in 6.59s
+2024.10.16 16:35:50 INFO  compiling root (1 scala source)
+2024.10.16 16:35:50 INFO  time: compiled root in 0.69s
+Oct 16, 2024 4:38:00 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.10.16 17:26:44 INFO  compiling root (1 scala source)
+2024.10.16 17:26:44 INFO  time: compiled root in 0.49s
+2024.10.16 17:26:47 INFO  compiling root (1 scala source)
+2024.10.16 17:26:47 INFO  time: compiled root in 0.32s
+2024.10.16 17:26:57 WARN  Using indexes to guess the definition of min
+Oct 16, 2024 5:26:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 197
+Oct 16, 2024 5:27:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 218
+2024.10.16 17:27:17 INFO  compiling root (1 scala source)
+2024.10.16 17:27:17 INFO  time: compiled root in 0.21s
+Oct 16, 2024 5:27:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 253
+2024.10.16 17:27:30 INFO  compiling root (1 scala source)
+2024.10.16 17:27:30 INFO  time: compiled root in 0.2s
+2024.10.16 17:27:38 INFO  compiling root (1 scala source)
+2024.10.16 17:27:38 INFO  time: compiled root in 0.18s
+2024.10.16 17:27:40 INFO  compiling root (1 scala source)
+2024.10.16 17:27:40 INFO  time: compiled root in 0.2s
+2024.10.16 17:27:40 INFO  compiling root (1 scala source)
+2024.10.16 17:27:40 INFO  time: compiled root in 0.12s
+2024.10.16 17:28:48 INFO  compiling root (1 scala source)
+2024.10.16 17:28:48 INFO  time: compiled root in 0.16s
+2024.10.16 17:28:50 INFO  compiling root (1 scala source)
+2024.10.16 17:28:50 INFO  time: compiled root in 0.2s
+2024.10.16 17:28:50 INFO  compiling root (1 scala source)
+2024.10.16 17:28:50 INFO  time: compiled root in 82ms
+2024.10.16 17:28:50 INFO  compiling root (1 scala source)
+2024.10.16 17:28:50 INFO  time: compiled root in 86ms
+2024.10.16 17:28:50 INFO  compiling root (1 scala source)
+2024.10.16 17:28:50 INFO  time: compiled root in 94ms
+2024.10.16 17:28:50 INFO  compiling root (1 scala source)
+2024.10.16 17:28:50 INFO  time: compiled root in 83ms
+2024.10.16 17:28:56 WARN  Using indexes to guess the definition of min
+Oct 16, 2024 5:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 418
+Oct 16, 2024 5:29:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 426
+2024.10.16 17:29:12 INFO  compiling root (1 scala source)
+2024.10.16 17:29:12 INFO  time: compiled root in 0.16s
+2024.10.16 17:29:25 INFO  compiling root (1 scala source)
+2024.10.16 17:29:25 INFO  time: compiled root in 0.16s
+2024.10.16 17:29:35 INFO  compiling root (1 scala source)
+2024.10.16 17:29:35 INFO  time: compiled root in 0.16s
+2024.10.16 17:29:55 INFO  compiling root (1 scala source)
+2024.10.16 17:29:55 INFO  time: compiled root in 0.62s
+2024.10.16 17:29:58 INFO  compiling root (1 scala source)
+2024.10.16 17:29:58 INFO  time: compiled root in 0.58s
+2024.10.16 17:30:59 INFO  compiling root (2 scala sources)
+2024.10.16 17:30:59 INFO  time: compiled root in 0.8s
+2024.10.16 17:33:46 INFO  compiling root (1 scala source)
+2024.10.16 17:33:46 INFO  time: compiled root in 0.57s
+Oct 16, 2024 5:36:19 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/hh.scala
+java.nio.file.NoSuchFileException: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/hh.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:428)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:281)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:295)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:274)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:109)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:377)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:142)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Oct 16, 2024 5:36:19 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/hh.scala
+java.nio.file.NoSuchFileException: /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/hh.scala
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:428)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:273)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:284)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:295)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:199)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:199)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:172)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:129)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:49)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at scala.meta.internal.pc.MetalsGlobal.symbolDocumentation(MetalsGlobal.scala:281)
+	at scala.meta.internal.pc.Signatures$SignaturePrinter.<init>(Signatures.scala:295)
+	at scala.meta.internal.pc.HoverProvider.toHover(HoverProvider.scala:274)
+	at scala.meta.internal.pc.HoverProvider.hoverOffset(HoverProvider.scala:109)
+	at scala.meta.internal.pc.HoverProvider.hover(HoverProvider.scala:27)
+	at scala.meta.internal.pc.ScalaPresentationCompiler.$anonfun$hover$1(ScalaPresentationCompiler.scala:377)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:156)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$withNonInterruptableCompiler$1(CompilerAccess.scala:142)
+	at scala.meta.internal.pc.CompilerAccess.$anonfun$onCompilerJobQueue$1(CompilerAccess.scala:245)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:152)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+Oct 16, 2024 5:36:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 766
+2024.10.16 17:36:48 INFO  compiling root (1 scala source)
+2024.10.16 17:36:48 INFO  time: compiled root in 0.56s
+2024.10.16 17:40:15 WARN  Using indexes to guess the definition of getFrenchGoldMedalists2016
+Oct 16, 2024 5:40:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 912
+2024.10.16 17:40:15 INFO  compiling root (1 scala source)
+2024.10.16 17:40:15 INFO  time: compiled root in 0.49s
+Oct 16, 2024 5:41:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1031
+2024.10.16 17:41:26 INFO  compiling root (1 scala source)
+2024.10.16 17:41:26 INFO  time: compiled root in 0.14s
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:27 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:31 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:31 INFO  compiling root (1 scala source)
+2024.10.16 17:41:31 INFO  time: compiled root in 0.14s
+2024.10.16 17:41:32 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:36 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:37 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:38 INFO  compiling root (1 scala source)
+2024.10.16 17:41:39 WARN  Could not load snapshot text for /home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject/src/main/scala/example/OlympicGamesApp.scala
+2024.10.16 17:41:38 INFO  time: compiled root in 0.72s
+2024.10.16 17:41:49 INFO  compiling root (1 scala source)
+2024.10.16 17:41:49 INFO  time: compiled root in 0.55s
+2024.10.16 17:42:59 INFO  compiling root (1 scala source)
+2024.10.16 17:42:59 INFO  time: compiled root in 0.66s
+Oct 16, 2024 5:43:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1558
+2024.10.16 17:44:05 INFO  compiling root (1 scala source)
+2024.10.16 17:44:05 INFO  time: compiled root in 0.56s
+2024.10.16 18:17:17 INFO  compiling root (1 scala source)
+2024.10.16 18:17:17 INFO  time: compiled root in 0.6s
