@@ -4,7 +4,7 @@
 PROJECT_DIR="/home/m2ipint/abdellatif.kebraoui.etu/Documents/NDD/Spark/mysparkproject"
 TARGET_DIR="$PROJECT_DIR/target/scala-2.12"
 REMOTE_USER="abdellatif.kebraoui.etu"
-REMOTE_HOST="172.28.1.3"
+REMOTE_HOST="172.28.1.7"
 REMOTE_DIR="/home/$REMOTE_USER"
 
 # Navigate to the project directory

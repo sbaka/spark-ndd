@@ -5,19 +5,31 @@ DEFAULT_MAIN_CLASS="example.OlympicGamesApp"
 DEFAULT_MASTER_IP="172.28.1.1"
 DEFAULT_JAR_FILE="mysparkproject_2.12-1.7.2.jar"
 
+# Function to list classes in the JAR file
+list_classes_in_jar() {
+    jar tf "$1" | grep -E '\.class$' | sed 's/\.class$//' | tr '/' '.'
+}
+
 # Check if -e or --edit is specified
 if [[ "$1" == "-e" || "$1" == "--edit" ]]; then
-    # Ask for the class name containing the main method
-    read -p "Enter the class name containing the main method (default is $DEFAULT_MAIN_CLASS): " main_class
-    main_class=${main_class:-$DEFAULT_MAIN_CLASS}
+    # Ask for the JAR file name
+    read -p "Enter the JAR file name (default is $DEFAULT_JAR_FILE): " jar_file
+    jar_file=${jar_file:-$DEFAULT_JAR_FILE}
+
+    # List classes in the JAR file and ask the user to select one
+    echo "Classes found in $jar_file:"
+    classes=$(list_classes_in_jar "$jar_file")
+    select main_class in $classes; do
+        if [[ -n "$main_class" ]]; then
+            break
+        else
+            echo "Invalid selection. Please try again."
+        fi
+    done
 
     # Confirm the master node IP
     read -p "Enter the master node IP (default is $DEFAULT_MASTER_IP): " master_ip
     master_ip=${master_ip:-$DEFAULT_MASTER_IP}
-
-    # Ask for the JAR file name
-    read -p "Enter the JAR file name (default is $DEFAULT_JAR_FILE): " jar_file
-    jar_file=${jar_file:-$DEFAULT_JAR_FILE}
 else
     # Use default values
     main_class=$DEFAULT_MAIN_CLASS
