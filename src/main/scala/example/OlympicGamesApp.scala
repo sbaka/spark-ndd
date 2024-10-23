@@ -102,7 +102,7 @@ object OlympicGamesApp {
     tmpDf.agg(min("year").as("Earliest Year"), max("year").as("Latest Year"))
   }
   def getTimeIntervalWinter(df: DataFrame): DataFrame = {
-    val tmpDf = df.filter("season = 'Summer'")
+    val tmpDf = df.filter("season = 'Winter'")
     tmpDf.agg(min("year").as("Earliest Year"), max("year").as("Latest Year"))
   }
 
@@ -110,6 +110,7 @@ object OlympicGamesApp {
     df.filter("year = 2002 AND season = 'Winter'")
       .select("event", "sport")
       .distinct()
+      .orderBy("sport")
   }
 
   def getWinter2002EventCount(df: DataFrame): DataFrame = {

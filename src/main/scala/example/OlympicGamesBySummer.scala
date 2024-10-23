@@ -4,7 +4,16 @@ import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.DataFrame;
 import org.apache.spark.sql.cassandra._;
-import org.apache.spark.sql.functions.{desc, when, col, sum};
+import org.apache.spark.sql.functions.{
+  desc,
+  when,
+  col,
+  sum,
+  avg,
+  countDistinct
+};
+import spire.syntax.group
+import org.apache.hadoop.shaded.org.checkerframework.checker.units.qual.s
 
 object OlympicGamesBySummer {
   def main(args: Array[String]): Unit = {
@@ -14,7 +23,7 @@ object OlympicGamesBySummer {
 
     val mySession = SparkSession
       .builder()
-      .master("spark://172.28.1.3:7077")
+      .master("spark://172.28.1.1:7077")
       .config(conf)
       .appName("mySparkProject")
       .getOrCreate();
@@ -27,18 +36,19 @@ object OlympicGamesBySummer {
       .option("header", "true")
       .csv("file:///home/caron/noc_regions.csv")
       .select("NOC", "region", "notes");
-    val dfJoined = df.join(dfRegions, df("NOC") === dfRegions("NOC"), "left");
+    val dfJoined = df.join(dfRegions, Seq("NOC"), "left")
     val dfSummer = dfJoined.filter("season = 'Summer'")
     val dfWinter = dfJoined.filter("season = 'Winter'")
 
     println(
       "Exo 3 ------------------------------------------------------------:"
-    );
-    // println(
-    //   "-------------------------------le nombre de pays participants ETE--------------------------------"
-    // )
-    // val summerParticipationDF = getSummerParticipationPerCountry(dfSummer)
-    // summerParticipationDF.show()
+    )
+
+    println(
+      "-------------------------------le nombre de pays participants ETE--------------------------------"
+    )
+    val summerParticipationDF = getSummerParticipationPerCountry(dfSummer)
+    summerParticipationDF.show()
 
     println(
       "-------------------------------le pourcentage de participation par genre par pays ETE--------------------------------"
@@ -46,51 +56,104 @@ object OlympicGamesBySummer {
     val genderPercentageDF = getGenderPercentage(dfSummer)
     genderPercentageDF.show()
 
+    println(
+      "-------------------------------Age Moyenn ETE--------------------------------"
+    )
+    val ageMoyenDF = getAgeMoyen(dfSummer)
+    ageMoyenDF.show()
+
+    println(
+      "-------------------------------Age Moyenn HIVER--------------------------------"
+    )
+    val ageMoyenDFHiver = getAgeMoyen(dfWinter)
+    ageMoyenDFHiver.show()
+
+    println(
+      "-------------------------------le nombre de médailles par pays ETE (pondéré)--------------------------------"
+    )
+    val nbOfMedalsDF = getNbOfMedalsPerCountry(dfSummer)
+    nbOfMedalsDF.show()
+
+    println(
+      "-------------------------------le nombre de médailles par pays ETE (trié par priorité)--------------------------------"
+    )
+    val medalsSortedByPriorityDF = getMedalsSortedByPriority(dfSummer)
+    medalsSortedByPriorityDF.show()
+
+    println("-------------------------------END-------------------------------")
+
+    mySession.close()
+
   }
 
   def getSummerParticipationPerCountry(df: DataFrame): DataFrame = {
-    df.groupBy("region").count().orderBy(desc("count"))
+    df.groupBy("games")
+      .agg(
+        countDistinct("NOC").as("nb_pays")
+      )
   }
-//   def getGenderPercentage(df: DataFrame): DataFrame = {
-//     // participation total par pays
-//     val countParPay =
-//       df.groupBy("region").count().withColumnRenamed("count", "countPay")
 
-//     // participation par genre et par pays
-//     val countParGenre = df
-//       .groupBy("region", "sex")
-//       .count()
-//       .withColumnRenamed("count", "countGenre")
-
-//     // pourcentage de participation par genre par pays
-//     val percentageDF = countParGenre
-//       .join(countParPay, "region")
-//       .withColumn(
-//         "percentage",
-//         (countParGenre("countGenre") / countParPay("countPay")) * 100
-//       )
-//       .select("region", "sex", "percentage")
-
-//     percentageDF
-//   }
   // ------------------------------------------------------------
   def getGenderPercentage(df: DataFrame): DataFrame = {
     // participation total par pays
-    val countParPay =
-      df.groupBy("region").count().withColumnRenamed("count", "countPay")
+    df
+      .groupBy("NOC", "region")
+      .agg(
+        sum(when(col("sex") === "F", 1).otherwise(0)).as("nb_femmes"),
+        sum(when(col("sex") === "M", 1).otherwise(0)).as("nb_hommes")
+      )
+      .withColumn(
+        "pctage_femmes",
+        (col("nb_femmes") / (col("nb_femmes") + col("nb_hommes")) * 100)
+      )
+      .withColumn(
+        "pctage_hommes",
+        (col("nb_hommes") / (col("nb_femmes") + col("nb_hommes")) * 100)
+      )
+      .withColumn(
+        "ratio_nbfemmes_pour_cent_hommes",
+        col("pctage_femmes") / col("pctage_hommes") * 100
+      )
+      .orderBy("NOC")
+  }
 
-    // participation par genre et par pays
-    val countParGenre = df
-      .groupBy("region", "sex")
-      .count()
-      .withColumnRenamed("count", "countGenre")
+  // ------------------------------------------------------------
+  def getAgeMoyen(df: DataFrame): DataFrame = {
+    df.groupBy("NOC", "region")
+      .agg(
+        avg("age").as("age_moyen"),
+        avg(when(col("sex") === "M", col("age"))).as("age_moyen_homme"),
+        avg(when(col("sex") === "F", col("age"))).as("age_moyen_femme")
+      )
+      .orderBy("NOC")
+  }
 
-    // pourcentage de participation par genre par pays
-    val percentageDF = countParGenre
-      .join(countParPay, "region")
-      .withColumn("percentage", (col("countGenre") / col("countPay")) * 100)
-      .select("region", "sex", "percentage")
+  // ------------------------------------------------------------
+  def getNbOfMedalsPerCountry(df: DataFrame): DataFrame = {
+    df.filter("year = 2016")
+      .groupBy("region")
+      .agg(
+        sum(when(col("medal") === "Gold", 1).otherwise(0)).as("nb_gold"),
+        sum(when(col("medal") === "Silver", 1).otherwise(0)).as("nb_silver"),
+        sum(when(col("medal") === "Bronze", 1).otherwise(0)).as("nb_bronze")
+      )
+      .withColumn(
+        "total",
+        col("nb_gold") * 3 + col("nb_silver") * 2 + col("nb_bronze")
+      )
+      .orderBy(desc("total"))
+      .limit(10)
+  }
 
-    percentageDF
+  def getMedalsSortedByPriority(df: DataFrame): DataFrame = {
+    df.filter("year = 2016")
+      .groupBy("region")
+      .agg(
+        sum(when(col("medal") === "Gold", 1).otherwise(0)).as("nb_gold"),
+        sum(when(col("medal") === "Silver", 1).otherwise(0)).as("nb_silver"),
+        sum(when(col("medal") === "Bronze", 1).otherwise(0)).as("nb_bronze")
+      )
+      .orderBy(desc("nb_gold"), desc("nb_silver"), desc("nb_bronze"))
+      .limit(10)
   }
 }
